@@ -1,0 +1,8 @@
+
+
+ICONS EDITOR 3.0
+
+Pentru a rula programul, fisierul EDITICON.EXE si directorul ICONS trebuie sa
+se afle in C:/BORLANDC/WORKS.JYB/EDITICON/.
+
+Good luck !!!
