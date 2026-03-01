@@ -33,6 +33,6 @@ Here is a snapshot for the archive of my blog post about neural networks for tex
 
 ## Snapshot of EditIcon app emulated in DOSBox in 2026
 
-This snapshot was redacted to remove my personal information.
+This snapshot is of EditIcon's original .EXE compiled in the '90s running now in DOSBox, but it was briefly redacted to remove my personal information I added for some odd reason while coding it back in 1998.
 
-![Snapshot of EditIcon app emulated in DOSBox in 2026](img/Screenshot%202026-02-28%20at%2010.31.21 PM%20-%20redacted.jpg)
+![Snapshot of EditIcon app emulated in DOSBox in 2026](img/Screenshot%202026-03-01%20at%2012.09.18 AM%20-%20redacted.jpg)
