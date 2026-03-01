@@ -30,3 +30,9 @@ I wrote some details about this project on my website from those times - nelulaz
 Here is a snapshot for the archive of my blog post about neural networks for text recognition, as preserved by Wayback Machine - Internet Archive website: [https://web.archive.org/web/20020907145528/nelulazar.go.ro/Rn.htm](https://web.archive.org/web/20020907145528/nelulazar.go.ro/Rn.htm)
 
 ![https://web.archive.org/web/20020907145528/nelulazar.go.ro/Rn.htm](img/Screenshot%202026-02-28%20at%208.32.22 PM.png)
+
+## Snapshot of EditIcon app emulated in DOSBox in 2026
+
+This snapshot was redacted to remove my personal information.
+
+![Snapshot of EditIcon app emulated in DOSBox in 2026](img/Screenshot%202026-02-28%20at%2010.31.21 PM%20-%20redacted.jpg)
